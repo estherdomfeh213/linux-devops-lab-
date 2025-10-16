@@ -14,11 +14,10 @@ Each folder includes:
 - **Documentation of key commands, configurations, and learnings**
 
 These projects cover everything from Linux fundamentals to AWS cloud automation.
-
 ---
 
 ##  Repository Structure
-
+```bash
 linux-devops-lab/
 │
 ├── Week01_Fundamentals/ # Basic Linux commands, filesystem, file ops
@@ -31,7 +30,7 @@ linux-devops-lab/
 ├── Week08_AWS/ # AWS CLI, EC2 automation, IAM, CloudWatch
 │
 └── README.md # Central overview (this file)
-
+```
 
 Each week folder includes:
 - `commands.md` → Practiced Linux commands  
